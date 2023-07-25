@@ -21,5 +21,6 @@ public class RegistrationFormTests {
     @Test
     void test() {
         open("https://ya.ru");
+        open("https://google.com");
     }
 }
