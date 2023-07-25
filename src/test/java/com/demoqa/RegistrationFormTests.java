@@ -23,4 +23,9 @@ public class RegistrationFormTests {
         open("https://ya.ru");
         open("https://google.com");
     }
+
+    @Test
+    void secondTest() {
+        open("https://translate.google.com/");
+    }
 }
