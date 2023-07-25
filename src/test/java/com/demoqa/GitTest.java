@@ -27,5 +27,6 @@ public class GitTest {
     @Test
     void secondTest() {
         open("https://translate.google.com/");
+        //TODO - add further step here
     }
 }
